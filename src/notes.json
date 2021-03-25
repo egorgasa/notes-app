@@ -1,0 +1,33 @@
+{
+    "notes": [
+        {
+            "label": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci,e?",
+            "important": true,
+            "like": false,
+            "id": 1,
+            "teg":false
+        },
+        {
+            "label": "Lorem ipsum dolor sit amet.",
+            "important": false,
+            "like": false,
+            "id": 2,
+            "teg":false
+
+        },
+        {
+            "label":" Lorem ipsum dolor sit amet, consectetur adipisicing.",
+            "important": false,
+            "like": false,
+            "id": 3,
+            "teg":false
+        }
+    ],
+    "tegs":[
+       { "teg":"#shop",
+        "id":1
+       },
+       {"teg":"#egor",
+        "id":2}
+    ]
+}

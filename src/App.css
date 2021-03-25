@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*Header*/
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+
+}
+
+.header h1 {
+  /* width: 150px;
+  height: 150px; */
+  font-size: 26px;
+}
+
+.header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}
